@@ -6,3 +6,4 @@ print("Hello, my dear friend;")
 print("Glad to see you;")
 print("Hello, my dear friend;")
 print("Glad to see you;")
+втиыполв
